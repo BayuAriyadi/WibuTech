@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">WibuTech</string>
+
+    <string name="heroes_name">Judul Anime</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>One Piece</item>
+        <item>Naruto Shippuden</item>
+        <item>Fairy Tail</item>
+        <item>Black Clover</item>
+        <item>Bleach</item>
+        <item>Gintama</item>
+        <item>Akame ga Kill</item>
+        <item>Dragon Ball Super</item>
+        <item>Mushoku Tensei: Isekai Ittara Honki Dasu</item>
+        <item>Sword Art Online</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>One Piece (Jepang: ワンピース, Hepburn: Wan Pīsu) adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Eiichiro Oda. Manga ini telah dimuat di majalah Weekly Shōnen Jump milik Shueisha sejak tanggal 22 Juli 1997, dan telah dibundel menjadi 105 volume tankōbon hingga Maret 2023. Ceritanya mengisahkan petualangan Monkey D. Luffy, seorang anak laki-laki yang memiliki kemampuan tubuh elastis seperti karet setelah memakan Buah Iblis secara tidak disengaja. Luffy bersama kru bajak lautnya, yang dinamakan Bajak Laut Topi Jerami, menjelajahi Grand Line untuk mencari harta karun terbesar di dunia yang dikenal sebagai "One Piece" dalam rangka untuk menjadi Raja Bajak Laut yang berikutnya.</item>
+        <item>Naruto Shippuden adalah sebuah seri anime yang diadaptasi dari bagian II manga Naruto. Serial ini disutradarai oleh Hayato Date dan diproduksi oleh Studio Pierrot dan TV Tokyo. Pada bagian ini, pergerakan organisasi Akatsuki semakin terlihat. Naruto Shippuden juga telah dibuat versi filmnya dengan judul Naruto Shippuden The Movie yang dirilis di Jepang pada Agustus 2007. Film ini menceritakan tentang usaha ninja jahat dalam membangkitkan Mouryou, roh jahat yang telah dikalahkan 20 tahun yang lalu. Setelah Naruto Shippuden The Movie dirilis, hadir pula Naruto Shippuden The Movie 2: Bond. Film ini menceritakan serangan kelompok ninja dari Negara Langit kepada Desa Konoha. Kemudian Naruto Shippuden The Movie 3: Inheritors of The Will of Fire. Di sini diceritakan Desa Konoha dituduh sebagai dalang penyebab para ninja dengan Kekkei Genkai menghilang dari Desa Suna, Desa Kiri, Desa Kumo dan Desa Iwa. Di Indonesia, Naruto Shippuden sempat ditayangkan di Indosiar dan GTV.[1]</item>
+        <item>Fairy Tail (bahasa Jepang: フェアリーテイル Hepburn: Fearī Teiru) adalah sebuah seri manga shōnen Jepang yang ditulis dan diilustrasikan oleh Hiro Mashima. Manga ini dimuat berseri dalam majalah Weekly Shōnen Magazine sejak bulan Agustus 2006 hingga Juli 2017, dan telah diterbitkan menjadi 63 volume tankōbon oleh Kodansha. Ceritanya mengisahkan tentang Natsu Dragneel, anggota dari guild penyihir[4] populer bernama Fairy Tail, yang bertualang di Earth-land dalam tujuannya untuk mencari seekor naga bernama Igneel.</item>
+        <item>Black Clover (Jepang: ブラッククローバー, Hepburn: Burakku Kurōbā) adalah sebuah seri manga shōnen bergenre fantasi asal Jepang yang ditulis dan diilustrasikan oleh Yūki Tabata. Ceritanya mengisahkan tentang seorang anak laki-laki bernama Asta yang lahir tanpa kekuatan sihir, suatu fenomena yang tidak normal di dunia tempatnya tinggal. Bersama dengan teman-temannya dari Banteng hitam, dia bercita-cita untuk menjadi Kaisar sihir. Manga ini dimuat berseri dalam majalah Weekly Shōnen Jump terbitan Shueisha sejak bulan Februari 2015, dan telah dibundel menjadi 35 volume tankōbon per bulan Juni 2023.</item>
+        <item>Bleach (Jepang: ブリーチ, Hepburn: Burīchi) merupakan sebuah seri manga shōnen Jepang yang ditulis dan diilustrasikan oleh Tite Kubo. Alur ceritanya mengisahkan petualangan remaja keras kepala bernama Ichigo Kurosaki yang mewarisi takdir kedua orangtuanya, setelah dia mendapatkan kekuatan Shinigami. Di Wikipedia bahasa Inggris, "Dewa Kematian" merujuk ke artikel karakter Bleach, dan "Shinigami" merujuk ke artikel mengenai shinigami, sebuah personifikasi kematian yang mirip dengan Malaikat Maut. Dari Shinigami lainnya, Rukia Kuchiki, kekuatan baru ini memaksa Ichigo untuk melakukan tugas melindungi manusia dari roh-roh jahat dan menuntun jiwa-jiwa yang mati ke alam baka. Membawanya ke petualangan-petualangan di berbagai alam spiritual yang ada.</item>
+        <item>Gin Tama (銀魂, "Jiwa Perak"), juga dikenal sebagai Gintama, adalah manga Jepang yang ditulis dan diilustrasikan oleh Hideaki Sorachi. Bersetting di Edo yang telah ditaklukkan oleh alien bernama Amanto, cerita mengikuti kehidupan dari sudut pandang samurai Gintoki Sakata, yang bekerja sebagai freelancer bersama teman-temannya Shinpachi Shimura dan Kagura untuk membayar sewa bulanan.</item>
+        <item>Akame ga Kill! (Jepang: アカメが斬る!, Hepburn: Akame ga Kiru!) adalah sebuah Seri manga Jepang yang ditulis oleh Takahiro dan diilustrasikan oleh Tetsuya Tashiro. Mulai serialisasi di Gangan Joker milik Square Enix pada Maret 2010. Cerita berfokus pada Tatsumi, seorang anak desa yang melakukan perjalanan ke Ibu kota guna mengumpulkan uang untuk rumahnya mengetahui wilayah korupsi yang kuat. Kelompok Pembunuh yang dikenal sebagai Night Raid merekrut pemuda itu untuk membantu mereka dalam perjuangan mereka melawan Kekaisaran untuk mengakhiri korupsi. Seri ini dikenal untuk konten grafis.</item>
+        <item>Dragon Ball Super (Jepang: ドラゴンボール超スーパー, Hepburn: Doragon Bōru Sūpā) adalah sebuah seri manga dan anime Jepang. Garis besar alur cerita keseluruhannya ditulis oleh Akira Toriyama sebagai pencipta waralaba Dragon Ball, dan merupakan sekuel dari manga Dragon Ball manga aslinya dan seri televisi Dragon Ball Z. Manga ini ditulis oleh Toriyama dan diilustrasikan oleh Toyotarou serta mulai dimuat berseri dalam majalah manga shōnen V Jump terbitan Shueisha sejak bulan Juni 2015. Adaptasi berupa seri anime yang diproduksi oleh Toei Animation ditayangkan pada saluran Fuji TV sejak tanggal 5 Juli 2015 hingga 25 Maret 2018. Anime-nya mengikuti garis besar cerita keseluruhan yang ditulis oleh Toriyama, sedangkan episode-episode tunggal ditulis oleh penulis skenario yang berbeda.</item>
+        <item>Mushoku Tensei: Isekai Ittara Honki Dasu (Jepang: 無職転生 〜異世界行ったら本気だす〜) adalah sebuah seri novel ringan Jepang yang ditulis oleh Rifujin na Magonote. Mengisahkan tentang seorang pria pengangguran dan putus asa yang bereinkarnasi ke dunia fantasi sambil mempertahankan ingatannya, ia bertekad untuk menjalani kehidupan barunya tanpa penyesalan. Seri ini awalnya diterbitkan di situs web berisi novel karya penggunanya Shōsetsuka ni Narō pada tanggal 22 November 2012. setahun kemudian diumumkan bahwa seri tersebut akan menerima rilis dalam bentuk cetak di bawah imprint MF Books terbitan Media Factory dengan ilustrasi yang dibuat oleh seorang pengguna Pixiv bernama Shirotaka.</item>
+        <item>Sword Art Online (Jepang: ソードアート・オンライン) adalah serial novel ringan Jepang yang ditulis oleh Reki Kawahara dan diilustrasikan oleh ABEC. Serial ini berlangsung pada masa depan yang dekat dan berfokus pada berbagai dunia permainan realitas virtual MMORPG. Sword Art Online mulai diterbitkan pada label ASCII Media Works Dengeki Bunko sejak 10 April 2009, dengan peluncuran serial sempalan pada Oktober 2012. Serial ini telah melahirkan lima adaptasi manga. Sebuah anime yang diproduksi oleh A-1 Pictures ditayangkan di Jepang antara Juli hingga Desember 2012. Anime ini telah dilisensi di Amerika Utara oleh Aniplex of America dan versi bahasa Inggris mulai ditayangkan di Adult Swim Toonami sejak 27 Juli 2013. Sebuah permainan video berdasarkan serial ini dirilis di PlayStation Portable pada Maret 2013.[1]</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/one_piece</item>
+        <item>@drawable/naruto_shippuden</item>
+        <item>@drawable/fairy_tail</item>
+        <item>@drawable/black_clover</item>
+        <item>@drawable/bleach</item>
+        <item>@drawable/gintama</item>
+        <item>@drawable/akame</item>
+        <item>@drawable/dbs</item>
+        <item>@drawable/mushoku_tensei</item>
+        <item>@drawable/sao</item>
+
+    </integer-array>
+
+    <string-array name="data_author">
+        <item>Eiichiro Oda</item>
+        <item>Masashi Kishimoto</item>
+        <item>Hiro Mashima</item>
+        <item>Yūki Tabata</item>
+        <item>Tite Kubo</item>
+        <item>Takahiro</item>
+        <item>Hideaki Sorachi</item>
+        <item>Akira Toriyama</item>
+        <item>Rifujin na Magonote</item>
+        <item>Reki Kawahara</item>
+    </string-array>
+
+    <string-array name="data_episode">
+        <item>1,076</item>
+        <item>500</item>
+        <item>328</item>
+        <item>170</item>
+        <item>366</item>
+        <item>201</item>
+        <item>24</item>
+        <item>131</item>
+        <item>25</item>
+        <item>96</item>
+
+    </string-array>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="ini_budi">ini budi</string>
+    <string name="bayuariyadi9_gmail_com">bayuariyadi9@gmail.com</string>
+    <string name="muhammad_bayu_ariyadi">Muhammad Bayu Ariyadi</string>
+    <string name="episode_text">Episode</string>
+    <string name="author_text">Author</string>
+    <string name="titik2">:</string>
+</resources>
