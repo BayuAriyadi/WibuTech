@@ -77,4 +77,7 @@
     <string name="episode_text">Episode</string>
     <string name="author_text">Author</string>
     <string name="titik2">:</string>
+    <string name="wibu_tech">Wibu Tech</string>
+    <string name="foto">foto</string>
+    <string name="share">Share</string>
 </resources>
